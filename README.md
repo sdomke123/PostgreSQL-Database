@@ -40,6 +40,8 @@ Data was then pulled into jupyter notebook via an engine connection to get a vis
 
 ## Data
 
+Six separate CSVs of varying sizes used, largest ones about ~500,000 rows in size.
+
 ## Tools and Languages
 * Database Management: PostgreSQL
 * Entity Relationship Diagram: 
