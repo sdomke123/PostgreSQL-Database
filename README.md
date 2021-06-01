@@ -1,4 +1,4 @@
-# Using an Employee Data Set to Perform Data Modeling, Engineering, and Analysis with SQL
+# Data Modeling, Engineering, and Analysis with SQL
 
 ## Overview
 
