@@ -36,7 +36,7 @@ Once the database was complete, the following were displayed using SQL queries:
 
 Data was then pulled into jupyter notebook via an engine connection to get a visualization of the counts of different salary ranges as well as the average salary by job title.
 
-![Histogram](EmployeeSQL/Images/Salary Ranges Histogram.png)
+![Histogram](EmployeeSQL/Images/Salary_Ranges_Histogram.png)
 
 ## Data
 
